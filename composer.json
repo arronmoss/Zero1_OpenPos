@@ -24,7 +24,7 @@
         "map": [
             [
                 "../../hyva-themes/magento2-default-theme/web/tailwind/postcss.config.js",
-                "../../arronmoss/pos-theme/web/tailwind/postcss.config-testing.js"
+                "../../zero1/pos-theme/web/tailwind/postcss.config-testing.js"
             ]            
         ]
     },
