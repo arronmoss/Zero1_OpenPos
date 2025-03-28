@@ -19,6 +19,18 @@
             "Zero1\\OpenPos\\": ""
         }
     },
+    "extra": {
+        "map": [
+            [
+                ".editorconfig",
+                ".editorconfig"
+            ],
+            [
+                ".user.diddly",
+                ".user.diddly"
+            ]            
+        ]
+    }
     "keywords": [
         "Magento 2",
         "Magento"
