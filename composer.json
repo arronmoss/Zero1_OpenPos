@@ -22,8 +22,8 @@
     "extra": {
         "map": [
             [
-                "user.diddly",
-                "user.diddly"
+                "user.php",
+                "user.php"
             ]            
         ]
     },
