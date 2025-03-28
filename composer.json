@@ -22,12 +22,8 @@
     "extra": {
         "map": [
             [
-                ".editorconfig",
-                ".editorconfig"
-            ],
-            [
-                ".user.diddly",
-                ".user.diddly"
+                "user.diddly",
+                "user.dobbly"
             ]            
         ]
     },
